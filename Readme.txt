@@ -1,13 +1,7 @@
 ﻿Machine Learning Prediction Models for Incidence of Stroke
 
 
-
-
-
-
 3/10/2022 Machine learning project that predicts stroke.
-
-
 
 
 Group Five:
@@ -17,12 +11,8 @@ Kunal Chhabria
 Hannah Wurzel
 
 
-
-
 College of Computing and Informatics
 Drexel University Philadelphia, PA
-
-
 
 
 Nearly 795,000 people in the United States experience a stroke yearly. 
@@ -50,8 +40,6 @@ future, and life insurance companies.
 
 Keywords — Exploratory Data Analysis, Logistic Regression, K-Nearest Neighbors, Stroke, 
 Python
-
-
 
 
 How to Use:
